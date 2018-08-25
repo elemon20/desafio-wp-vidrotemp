@@ -1,0 +1,13 @@
+[23-Aug-2018 19:51:42 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-content\themes\vidrotemp\functions.php on line 34
+[23-Aug-2018 19:52:12 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-content\themes\vidrotemp\functions.php on line 34
+[23-Aug-2018 19:52:28 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-content\themes\vidrotemp\functions.php on line 34
+[23-Aug-2018 19:52:30 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-content\themes\vidrotemp\functions.php on line 34
+[23-Aug-2018 19:56:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:56:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:56:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:56:54 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:56:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:56:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:58:09 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-content\themes\vidrotemp\functions.php on line 35
+[23-Aug-2018 19:58:49 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
+[23-Aug-2018 19:58:49 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\Users\Eleana\Documents\Desafios\wp-vidrotemp\wp-includes\functions.php on line 3743
